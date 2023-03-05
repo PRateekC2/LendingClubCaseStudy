@@ -1,7 +1,6 @@
 # Lending Club
 > Lending Club Project details ( Python code file, ppt file in pdf)
 
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -12,39 +11,41 @@
 
 ## General Information
 - Provide general information about your project here. 
-> 
+> The data contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc!
 
 - What is the background of your project?
+>  Lending Club Case Study: This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures.     Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to ‘risky’ applicants is the    largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
 - What is the business probem that your project is trying to solve?
+>  Most of the loans taken for debt consolidation(47%) and Credit card bill payment & Other is also one of the main area where loans were taken.
 - What is the dataset that is being used?
-
+- 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loan Amount from the Univariate analysis
+- Loan Status from the Bi variate analysis
+- Pair Plot 3 from Multivariate analysis
+- Interest Amount from the Univariate analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy - version 1.22.4
+- Pandas - version 1.3.5
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by... Upgrad Faculty
+- References if any... 
+- This project was based on [this tutorial](https://www.learn.upgrad.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@PRateekC2] - feel free to contact me!
 
 
 <!-- Optional -->
